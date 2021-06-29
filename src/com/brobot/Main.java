@@ -69,7 +69,7 @@ public class Main {
 
         /**
          * 6 - Exercícios programação orientado a objeto
-         * 6.1 - Cria as class de arcodo com o diagrama na imagem "diagrapa-de-classe.png"
+         * 6.1 - Cria as class de acordo com o diagrama na imagem "diagrama-de-classe.png"
          * Instanciar um objeto da classe Pessoa, preecher os atributos e chamar os métodos
          * 6.2 - Instanciar dois objetos da classe Cachorro e associar ao objeto da classe Pessoa
          */
