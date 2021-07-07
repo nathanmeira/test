@@ -15,6 +15,6 @@ O arquivo pode ser encontrado em: *src/com/brobot/Main.java*
 
 Após estes passos, agendaremos uma reunião para dar um feedback sobre os exercícios corrigidos.
 
-> *Dica:* O Google é o seu melhor amigo.
+> **Dica:** O Google é o seu melhor amigo.
 
 Aguardamos seu commit! ☕
