@@ -5,7 +5,7 @@
 Esta aplicação Java possui uma função main que deverá ser executada para trazer os resultados dos exercícios que estão comentados no código.
 O arquivo pode ser encontrado em: *src/com/brobot/Main.java*
 
-- Como enviar o seu código com as respostas?
+**Como enviar o seu código com as respostas?**
 
 1. Clone este repositório.
 2. Responda os exercícios seguindo as instruções descritas.
